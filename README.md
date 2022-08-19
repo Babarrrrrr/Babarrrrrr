@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abanoub</h1>
 <h3 align="center">Student developper fullstack 🖥️</h3>
 
-- 🔭 I’m currently working on a ** full text search pdf generator**
+- 🔭 I’m currently working on a **full text search pdf generator**
 
 - 🌱 I’m currently learning **js and nodejs**
 
