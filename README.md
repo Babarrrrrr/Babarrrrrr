@@ -7,8 +7,6 @@
 
 - 📫 How to reach me **abanoub55@hotmail.com**
 
-- ⚡ Fun fact **cheese lover**
-
 <p align="left">
 </p>
 
