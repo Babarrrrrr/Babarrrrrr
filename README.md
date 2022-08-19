@@ -1,6 +1,14 @@
 <h1 align="center">Hi 👋, I'm Abanoub</h1>
 <h3 align="center">Student developper fullstack 🖥️</h3>
 
+- 🔭 I’m currently working on a **pdf generator**
+
+- 🌱 I’m currently learning **js and nodejs**
+
+- 📫 How to reach me **abanoub55@hotmail.com**
+
+- ⚡ Fun fact **cheese lover**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
