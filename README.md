@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abanoub</h1>
-<h3 align="center">Student developper fullstack 🖥️</h3>
+<h3 align="center">Student in computer science 🖥️</h3>
 
 - 🔭 I’m currently working on a **full text search pdf generator**
 
