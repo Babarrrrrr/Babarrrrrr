@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on a **full text search pdf generator**
 
-- 🌱 I’m currently learning **js and nodejs**
+- 🌱 I’m currently learning **R and Scala**
 
 - 📫 How to reach me **abanoub55@hotmail.com**
 
